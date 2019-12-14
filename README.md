@@ -9,5 +9,5 @@
 2. What is MVC?
 3. What is REST-ful routing?
 4. What are migration files and why do we need them?
-5. What does the `rails routes` does?
+5. What does the `rails routes` do?
 6. Walk us through the setup and code for building a new rails app in Rails.
