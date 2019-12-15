@@ -30,5 +30,21 @@ responds to user requests as they come in, and utilizes both the model and the v
 - indicate to the server which controllers should be triggered (and how) by which kinds of requests.
 
 ## 6. Walk us through the setup and code for building a new rails app in Rails.
+1- Installing Rails 
+- ``` gem install rails ``` 
+- ``` rails s ``` 
+
+2- The command to build our rails app with mysql is the following:
+```rails new intro_app -d mysql```
+
+# 👉 CREATE DATABASE
+```rails db:create creates``` your mysql database based on the name of your Rails app.
+
+Now we can run ```rails s``` from the command line to start our server.
+
+
+
+
+
 
 
