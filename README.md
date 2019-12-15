@@ -10,11 +10,14 @@
 2. What is MVC?
 - It's architecture pattern. this pattern involves making three core types of components, each responsible for a different part of the server's functionality.
 
-A ## Model directly manages the data in our application, and provides a representation of that data for the rest of the application to use.
+## Model 
+directly manages the data in our application, and provides a representation of that data for the rest of the application to use.
 
-A ## View is like it sounds - it's data that gets sent back to the client for the user to consume.
+## View
+is like it sounds - it's data that gets sent back to the client for the user to consume.
 
-A ## Controller responds to user requests as they come in, and utilizes both the model and the view components to perform the desired behavior and produce a response.
+## Controller
+responds to user requests as they come in, and utilizes both the model and the view components to perform the desired behavior and produce a response.
 
 3. What is REST-ful routing?
 - A RESTful route is a route that provides mapping between HTTP verbs (get, post, put, delete, patch) to controller CRUD actions (create, read, update, delete). Instead of relying solely on the URL to indicate what site to visit, a RESTful route also depends on the HTTP verb and the URL.
