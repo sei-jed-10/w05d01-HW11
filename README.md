@@ -37,7 +37,7 @@ responds to user requests as they come in, and utilizes both the model and the v
 2- The command to build our rails app with mysql is the following:
 ```rails new intro_app -d mysql```
 
-# 👉 CREATE DATABASE
+3- CREATE DATABASE
 ```rails db:create creates``` your mysql database based on the name of your Rails app.
 
 Now we can run ```rails s``` from the command line to start our server.
