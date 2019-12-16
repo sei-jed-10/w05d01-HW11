@@ -34,16 +34,16 @@
 
  6. Walk us through the setup and code for building a new rails app in Rails.
  ```rb
- - Step 1 — Installing SQL
- - Step 2 — Installing Rails
+ # Step 1 — Installing SQL
+ # Step 2 — Installing Rails
  `gem install rails`
- - Step 3 _ Inatalling Node.js and yarn
- - Step 4 _ run command
+ # Step 3 _ Inatalling Node.js and yarn
+ # Step 4 _ run command
  `rails s`
- - Step 5 _ BUILD A NEW RAILS APP
+ # Step 5 _ BUILD A NEW RAILS APP
  `rails new intro_app -d mysql`
  `cd intro_app`
  `code .`
- - Step 6 _ CREATE DATABASE
+ # Step 6 _ CREATE DATABASE
  `rails db:create`
  ```
