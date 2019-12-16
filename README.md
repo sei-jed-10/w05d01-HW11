@@ -21,7 +21,6 @@ Is a small program required by ruby in order to change any database fields.
 They work as dispatchers/directing modules that read browser URLs and dispatch them to the controller based on the actions requested.
 
 <b>6. Walk us through the setup and code for building a new rails app in Rails.</b>
-
   <br>
   Using Git Bash:
   
