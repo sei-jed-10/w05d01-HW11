@@ -27,4 +27,4 @@ It specfy which page to route to .Using the route allow us to make the any page 
 6. Walk us through the setup and code for building a new rails app in Rails.
 
 We have to install the rails and the yarn , and webpacker to our system .
-And then using the  terminal and type rails new and the name of the app we can also add the sql data base with the same command .After the app is crated we can run the se
+And then using the  terminal and type rails new and the name of the app we can also add the sql data base with the same command .After the app is crated we can run the server by using rails s.
