@@ -2,7 +2,7 @@
 
 ## Read Ruby on Rails Guide to answer the questions below:
 **[Ruby on Rails Guides](https://guides.rubyonrails.org/)**
-- ~Apply your knowledge of Ruby on rails to answer these questions.~
+- <u>Apply your knowledge of Ruby on rails to answer these questions.</u>
 
 ## Questions
  1. What is Active Record?
