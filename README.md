@@ -22,7 +22,8 @@
 	Migrations are a convenient way to alter your database schema over time in a consistent and easy way. They use a Ruby DSL so that you don't have to write SQL by hand, allowing your schema and changes to be database independent.
 	Migrations are stored as files in the db/migrate directory, one for each migration class. The name of the file is of the form YYYYMMDDHHMMSS_migration_class_name.rb, that is to say a UTC timestamp identifying the migration followed by an underscore followed by the name of the migration. The name of the migration class (CamelCased version) should match the latter part of the file name.Rails uses this timestamp to determine which migration should be run and in what order.
 5. What does the `rails routes` do?
-
+	routes our application to our html page
+	----------------------------
 6. Walk us through the setup and code for building a new rails app in Rails.
 	- rails s to run the server
 	- rails new app_name -d database type
